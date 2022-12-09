@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shalinisairi
 - 👀 I’m interested in Graphics & Small Email marketing landing pages   
-- 🌱 I’m currently learning to take on css & html 
+- 🌱 I’m currently learning to take on css,html & JS
 - 💞️ I’m looking to collaborate on via github 
-- 📫 How to reach me shalini.sairi@icloud.com
+- 📫 How to reach me shalini.sairi@yahoo.com
 
 <!---
 shalinisairi/shalinisairi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
